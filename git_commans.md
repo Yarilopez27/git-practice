@@ -4,18 +4,18 @@ git status: Este comando se usa para obtener el estado actual del repositorio
 
 git clone: Sirve para clonar un reositorio en un dispositivo local.
 
-git pull:
+git pull: Sirve para extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local
 
-git checkout:
+git checkout: Nos permite desplazarnos entre las ramas
 
-git log:
+git log: Sirve para explorar el historial del repositorio.
 
-git branch:
+git branch: Nos permite crear una rama, enlistar las ramas, eliminar ramas y cambiar el nombre de las ramas.
 
-git add:
+git add: Sirve para agregar rutas de archivos.
 
-git commit:
+git commit: Se usa para añadir un nuevo cambio en el historial
 
-git push:
+git push: Sirve para  cargar contenido del repositorio local a un repositorio remoto.
 
-git merge:
+git merge: Se utiliza para fusionar uno o más ramas dentro de la rama que tienes activa.
